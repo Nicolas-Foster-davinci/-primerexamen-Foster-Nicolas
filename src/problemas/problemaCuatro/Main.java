@@ -1,2 +1,4 @@
-package problemas.problemaCuatro;public class Main {
+package problemas.problemaCuatro;
+
+public class Main {
 }

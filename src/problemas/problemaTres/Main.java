@@ -1,4 +1,4 @@
-package problemas.problemaCuatro;
+package problemas.problemaTres;
 
 public class Main {
 }
